@@ -34,7 +34,7 @@ With this module, you can find the definitions of words without having to leave 
  - /define <word>: returns the definition of the word.
  """
  
-__mod_name__ = "Dictionary📗"
+__mod_name__ = "🔥Dictionary🔥"
         
         
 DEFINE_HANDLER = CommandHandler("define", define, pass_args=True)
