@@ -26,9 +26,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, My Name is {}!** 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group.
-You can find the list of available commands with /help.
+**Hello {}, My Name is 𝒫⃨𝒶⃨𝓉⃨𝓇⃨𝒾⃨𝒸⃨𝒾⃨𝒶⃨!** 
+🌟I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot.
+🌟I will help in managing your group.
+🌟Under development by [BLAZE](t.me/piroXpower)
+🌟update channel here:- [Update](t.me/patricia_updates)
+🌟Support group here:- [Support](t.me/patricia_support)
+🌟Music bot here:- [Music](t.me/patriciaXmusic_bot)
+🌟Copy write and editing access to :- [Patricia](t.me/patricia_credits)
+🌟You can find help menu by just using /help.
+🌟 Don't forget to join support group.
 
 """
 
