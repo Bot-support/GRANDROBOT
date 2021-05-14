@@ -50,13 +50,14 @@ Hello! my name *{}*.
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
+   - under development by [BLAZE](t.me/piroXpower)
 
 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/ec6f7ebb2bcb456902712.jpg"
+TECHNO_IMG = "https://telegra.ph/file/c5ee6502064f6e09152c0.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
