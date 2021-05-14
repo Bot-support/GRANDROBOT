@@ -74,7 +74,7 @@ __help__ = """ Youtube audio Downloader
  - /music <Youtube link> : download audio file from youtube link.
 
 """
-__mod_name__ = "🔥Music🔥 
+__mod_name__ = "🔥Music🔥"
 
 music_handler = CommandHandler('music', music, pass_args=True)
 dispatcher.add_handler(music_handler)
