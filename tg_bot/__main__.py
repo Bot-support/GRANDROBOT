@@ -143,7 +143,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        callback_data="help_back".format(bot.username)),
 
                                                                                    InlineKeyboardButton(text="🔥OWNER🔥",
-                                                                       url="t.me/teamishere")],
+                                                                       url="t.me/piroXpower")],
 
                                                                                    [InlineKeyboardButton(text="⚡Add to Group⚡",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
