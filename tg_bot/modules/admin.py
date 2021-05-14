@@ -401,7 +401,7 @@ dispatcher.add_handler(CHAT_PIC_HANDLER)
 dispatcher.add_handler(DEL_CHAT_PIC_HANDLER)
 dispatcher.add_handler(ADMINLIST_HANDLER)
 
-__mod_name__ = "Admin🔥"
+__mod_name__ = "🔥Admin🔥"
 
 __command_list__ = ["adminlist", "admins", "invitelink"]
 
